@@ -1,13 +1,12 @@
-<h1 align="center"><b>Hi <img src = "./Images/wave.gif" width = 30px>, I'm Vatsal!</b></h1>
+<h1 align="center"><b>Hi <img src = "./Images/wave.gif" width = 30px>, I'm Vatsal here!</b></h1>
 <h3 align="center">Graduate Student at The University of Georgia.</h3>
 <h3 align="center">
 <a href='https://vatsalthakkar3.github.io/'><img align="center"
       src="./Images/portfolio.png"
       alt="[Portfolio](https://vatsalthakkar3.github.io/)" height="40" width="40" /></a>
 
-[![Github](https://img.shields.io/github/followers/vatsalthakkar3?label=Follow&style=social)](https://github.com/vatsalthakkar3)
+<!-- [![Github](https://img.shields.io/github/followers/vatsalthakkar3?label=Follow&style=social)](https://github.com/vatsalthakkar3) -->
 </h3>
-<br>
 
 
 
@@ -109,9 +108,6 @@
 [![Vatsal's Most Used Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=vatsalthakkar3&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)](https://github.com/vatsalthakkar3/)
 
 [![Vatsal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vatsalthakkar3&theme=dark&border_radius=7.5&exclude_days=Sun)](https://leetcode.com/Vatsalthakkar3/)
-
-
-
 
 
 <!-- [![Vatsal's Github stats](https://github-readme-stats.vercel.app/api?username=vatsalthakkar3&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat)](https://github.com/vatsalthakkar3/) -->
