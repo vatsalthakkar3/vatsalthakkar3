@@ -21,7 +21,7 @@
 
 <br>
 
-## **🔗 Connect me:**
+## **🔗 Connect with me**
 
 <p align="left">
     <a href="https://www.linkedin.com/in/vatsal-thakkar-880320161/" target="blank"><img align="center"
@@ -46,7 +46,7 @@
 
 <br>
 
-## **🛠 Skills:**
+## **🛠 Skills**
 
 **Programming Languages:**
 
@@ -60,7 +60,7 @@
 
 
 
-**Python Libraries:**
+**Python Libraries**
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=F05032)
 ![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy&logoColor=blue)
@@ -101,7 +101,7 @@
 ![Linux](https://img.shields.io/badge/-LinuxOS-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/-WindowsOS-000000?style=flat&logo=windows&logoColor=blue)
 
-## **📈 Statistical Data:**
+## **📈 Statistical Data**
 
 <br>
 
