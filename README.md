@@ -10,7 +10,7 @@
 
 
 
-<p><img align="right" src="./Images/animation.gif" alt="" /></p>
+<!-- <p><img align="right" src="./Images/animation.gif" alt="" /></p> -->
 
 ## **🚀 About Me**
 
@@ -107,7 +107,7 @@
 
 [![Vatsal's Most Used Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=vatsalthakkar3&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)](https://github.com/vatsalthakkar3/)
 
-[![Vatsal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vatsalthakkar3&theme=dark&border_radius=7.5&exclude_days=Sun)](https://leetcode.com/Vatsalthakkar3/)
+<!-- [![Vatsal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vatsalthakkar3&theme=dark&border_radius=7.5&exclude_days=Sun)](https://leetcode.com/Vatsalthakkar3/) -->
 
 
 <!-- [![Vatsal's Github stats](https://github-readme-stats.vercel.app/api?username=vatsalthakkar3&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat)](https://github.com/vatsalthakkar3/) -->
