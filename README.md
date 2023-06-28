@@ -73,6 +73,7 @@
 ![scipy](https://img.shields.io/badge/-scipy-000000?style=flat&logo=scipy&logoColor=blue)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib&logoColor=F05032)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv&logoColor=green)
+![LangChain](https://img.shields.io/badge/🦜🔗-LangChain-000000?style=flat&logo=langchain)
 
 
 
@@ -101,6 +102,8 @@
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=apple&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-LinuxOS-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/-WindowsOS-000000?style=flat&logo=windows&logoColor=blue)
+![Docker](https://img.shields.io/badge/-docker-000000?style=flat&logo=docker)
+![Gradle](https://img.shields.io/badge/-gradle-000000?style=flat&logo=gradle&logoColor=skyblue)
 
 ## **📈 Statistical Data**
 
