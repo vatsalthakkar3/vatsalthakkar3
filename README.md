@@ -89,6 +89,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-express.js-000000?style=flat&logo=express&logoColor=skyblue)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/-flask-000000?style=flat&logo=flask)
 
 
 **Other Tools:**
