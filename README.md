@@ -45,7 +45,7 @@
 </p>
 
 <br>
-
+<!---
 ## **🛠 Skills**
 
 **Programming Languages:**
@@ -104,7 +104,7 @@
 ![Windows](https://img.shields.io/badge/-WindowsOS-000000?style=flat&logo=windows&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-docker-000000?style=flat&logo=docker)
 ![Gradle](https://img.shields.io/badge/-gradle-000000?style=flat&logo=gradle&logoColor=skyblue)
-
+-->
 ## **📈 Statistical Data**
 
 <br>
